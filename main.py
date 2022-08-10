@@ -20,4 +20,4 @@ if codigo == 5:
 if codigo == 6:
     preco = 7
 valor = preco*qtd
-print('O valor que você irá pagar será de {} reais.'.format(valor))
+print('O valor que você irá pagar será de {} reais'.format(valor))
